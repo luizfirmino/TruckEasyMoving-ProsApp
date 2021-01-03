@@ -1,0 +1,22 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "Pros",
+	"scope" : "/",
+	"display" : "browser",
+	"start_url" : "https://pros.truckeasymoving.com/",
+	"short_name" : "Pros",
+	"theme_color" : "transparent",
+	"description" : "",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "https://pros.truckeasymoving.com/favicon.ico",
+			"sizes": "16x16"
+		}],
+	"url" : "https://pros.truckeasymoving.com/",
+	"generated" : "true"
+}
